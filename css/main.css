@@ -1,0 +1,32 @@
+head {
+  font-family: "Times New Roman", Times, serif;
+  font-style: normal;
+  font-size: 60px;
+  background-color: lightblue;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-style: normal;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-style: normal;
+  font-size: 30px;
+}
+
+h3 {
+  font-family: "Times New Roman", Times, serif;
+  font-style: normal;
+  font-size: 20px;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-style: normal;
+  font-size: 14px;
+  margin: 60px;
+  background-color: lightblue;
+}

@@ -38,5 +38,5 @@ img {
 .button {
   background-color: #FF0000;
   color: #000000;
-  display: inline-block;
+  font-size: 30px;
 }

@@ -38,6 +38,7 @@ img {
 .button {
   height: 100px;
   width: 100px;
+  border: 3px double #2E8B57;
   border-radius: 50%;
   font-family: "calibri", Garamond, 'Comic Sans MS';
   font-size: 20px;

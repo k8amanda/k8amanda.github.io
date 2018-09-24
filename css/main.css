@@ -39,7 +39,7 @@ img {
   height: 100px;
   width: 100px;
   border-radius: 50%;
-  font-style: "Lucida" Grande, sans-serif;
+  font-style: font-family: "calibri", Garamond, 'Comic Sans MS';
   font-size: 20px;
   background-color: #18CEA1;
 }

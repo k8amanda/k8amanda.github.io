@@ -52,7 +52,7 @@ button:hover {
   box-shadow: inset 0 0 0 3px #2E8B57;
 }
 
-.justify-content-end {
+.navbar {
   float: right;
   font-family: "Times New Roman", Times, serif;
 }

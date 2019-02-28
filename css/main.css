@@ -29,6 +29,37 @@ body {
   margin: 60px;
 }
 
+header {
+  background: #FA9088;
+}
+
+header::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+nav {
+  float: right;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 50px;
+  padding-top: 25px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #406287;
+}
+
 img {
   display: block;
   margin-left: auto;
@@ -50,9 +81,4 @@ button:hover {
   background: rgba(0,0,0,0);
   color: #2E8B57;
   box-shadow: inset 0 0 0 3px #2E8B57;
-}
-
-.navbar {
-  float: right;
-  font-family: "Times New Roman", Times, serif;
 }
